@@ -1,3 +1,7 @@
+# This is patched as of the new website update, I am looking for solutions but they seem grim
+
+
+
 # Bellingham Schools Staff Email Scraper
 
 This is slightly modified code from my blog post:  
