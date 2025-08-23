@@ -1,5 +1,5 @@
-# This is patched as of the new website update, I am looking for solutions but they seem grim
-
+# This no longer works as of the new website update
+### I am looking for solutions but they seem grim as they now use Cloudflare email protection, and you cant just fetch everything all at once
 
 
 # Bellingham Schools Staff Email Scraper
